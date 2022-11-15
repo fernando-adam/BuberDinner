@@ -5,16 +5,11 @@ C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Api.runtimeconfig.json
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Api.dll
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Api.pdb
-C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.csproj.AssemblyReference.cache
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfoInputs.cache
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfo.cs
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
-C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\staticwebassets.development.json
@@ -33,3 +28,5 @@ C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adam\Documents\ASP.NET\CleanArchitectureAPI\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

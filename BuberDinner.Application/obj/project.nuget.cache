@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6xb39M9x8WxGqxyPQ3i8IvZ01bFdHHPGATGanWtEgbRsr+VL5EXCJhiKDwNHfeXDSuZ0YFwc0S1dLDxQjnL2MA==",
+  "dgSpecHash": "MSDrRUYW4MZizFSfrqIKIxQXuYpFXoQsISYHN5YPRAV2JX5g/YCX3ktJTwMghHVoNMXs3epEAt1BTo9IjQx9mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adam\\Documents\\ASP.NET\\CleanArchitectureAPI\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
